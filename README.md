@@ -1,3 +1,4 @@
-# Freeloan Plugin v2.1.1 for SLiMS by Drajat Hasan (drajathasan20@gmail.com)
+# Freeloan Plugin v3.0.0 for SLiMS 9 by Drajat Hasan (drajathasan20@gmail.com)
 
-Thanks to Fathul ilmi N, Disarpus Indramayu for supporting this repo.
+If you want to make this plugin done fastly, please become a sponsor to this project. How? Make a donation :relaxed: :heart:.
+Contact me at https://t.me/drajathasan
